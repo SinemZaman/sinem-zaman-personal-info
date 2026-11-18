@@ -1,0 +1,18 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        bild.jpg
+        status1.txt
+        status2.txt
+        status3.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+
+What does Git tell you about your local and remote repository?
+Git zeigt, dass mein lokales Repository und das Remote-Repository auf GitHub auf dem gleichen Stand sind.
+Mein Commit wurde erfolgreich zu GitHub hochgeladen.
+DIe Datei bild.jpg, status1.txt, status2.txt und status3.txt sind weiterhin untracked und wurden noch nicht zu Git hinzugefügt.

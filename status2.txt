@@ -1,0 +1,18 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        bild.jpg
+        status1.txt
+
+
+
+What has changed compared with status1.txt?
+Es hat sich geändert, dass index.html jetzt zur Staging Area hinzugefügt wurde.
+Git hat die Datei nun vorgemerkt, damit sie beim nächsten Commit gespeichert werden kann.
+Es wurde aber noch kein Commit erstellt.
